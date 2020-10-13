@@ -116,6 +116,9 @@ margin: 1.8rem;
 	background: #fff;
     padding: 15px;
 }
+.post_text b{
+	font-size: 2rem;
+}
 .post_text img{
 	width: 100%;
 }
