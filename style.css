@@ -44,7 +44,9 @@ body {
 	position: relative;
     display: block;
 }
-
+.content{
+	margin: 1.8rem;
+}
 .title{
 margin: 1.8rem;
     font-size: 3rem;
