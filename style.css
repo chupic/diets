@@ -45,47 +45,6 @@ body {
     display: block;
 }
 
-
-.thumb{
-}
-.thumb img{
-	
-	width: 100%;
-	display: block;
-}
-.cat_thumb{
-	position: relative;
-    display: block;
-}
-.cat{
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-	height: 100%;
-	background:rgba(0,0,0, 0.5);
-
-}
-.date{
-	margin: 1.3rem;
-    top: 0;
-    position: absolute;
-    right: 0;
-	font-size:1.5rem;
-	color:#fff;
-	opacity:0.9;
-}
-.categ{
-    bottom: 0.7rem;
-    left: 1.3rem;
-    position: absolute;
-    color: #fff;
-    opacity: 0.9;
-    line-height: 1.5;
-    font-size: 1.5rem;
-}
-.categ span{
-   font-weight:bold;
-}
 .title{
 margin: 1.8rem;
     font-size: 3rem;
@@ -140,10 +99,11 @@ margin: 1.8rem;
 	background: #DDDDDD;
 	transition:0.3s;
 }
-.content{
-	margin:1.8rem;
+.post_title{
+	font-size: 1.8rem;
+    color: #303030;
+    font-weight: bold;
 }
-
 .post_text{
 	margin-top:1.8rem;
 	font-size:1.7rem;
