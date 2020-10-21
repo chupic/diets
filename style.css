@@ -135,6 +135,7 @@ body {
 }
 .post_text img{
 	width: 100%;
+	padding: 15px 0px 8px 0;
 }
 .post_text a{
 	font-size:1.7rem;
