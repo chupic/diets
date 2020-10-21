@@ -115,7 +115,6 @@ body {
 	font-size: 2.5rem;
     color: #303030;
     font-weight: bold;
-	margin-right: 4rem;
 	margin-left: 15px;
 }
 .post_text{
@@ -168,7 +167,7 @@ body {
 .navigation a{
 	padding: 7px 14px;
     color: #fff;
- 
+
 	font-size: 1.7rem;
 	display: inline-block;
 	margin-block-start: 0;
