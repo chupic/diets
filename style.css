@@ -127,8 +127,10 @@ body {
 	background: #fff;
     padding: 0px 15px 15px 15px;
 }
+.post_text i,
 .post_text b{
 	display:block;
+	margin: 5px 0px;
 }
 .post_text h1{
 	font-size: 2rem;
